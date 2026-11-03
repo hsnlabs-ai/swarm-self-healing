@@ -1,3 +1,25 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Swarm Self-Healing banner" width="100%" style="border-radius: 12px;">
+</p>
+
+<p align="center">
+  <strong>Deterministic Homeostasis, Discrete Thermal Hysteresis &amp; Sub-5s Hot Standby Failover (SSH-SPEC-0001).</strong>
+</p>
+
+<p align="center">
+  <a href="https://hsnlabs.ai/en/products/swarm-self-healing/"><img src="https://img.shields.io/badge/website-hsnlabs.ai-52B4FD.svg" alt="website"></a>
+  <a href="https://hsnlabs.ai"><img src="https://img.shields.io/badge/maintained%20by-hsnlabs-07090e.svg" alt="hsnlabs"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-mit-blue.svg" alt="license"></a>
+  <img src="https://img.shields.io/badge/python-3.11+-3776AB.svg" alt="python">
+  <img src="https://img.shields.io/badge/spec-SSH--SPEC--0001-52B4FD.svg" alt="spec">
+</p>
+
+<p align="center">
+  <img src="assets/studio_window.png" alt="Swarm Self-Healing Thermal Homeostasis Chamber" width="100%" style="border-radius: 12px;">
+</p>
+
+---
+
 # Swarm Self-Healing (`v1.0.0`)
 
 **Deterministic Homeostasis, Sub-5s Hot Failover & Anti-Ban Survival Engine for Autonomous Agent Swarms**  
@@ -10,7 +32,7 @@ Maintained by **hsnlabs** (`https://hsnlabs.ai`) · Released under the **MIT Lic
 
 ---
 
-## Why Swarm Self-Healing?
+## <img src="assets/logo-square.png" alt="logo" width="24" height="24" align="absmiddle" style="border-radius: 5px; vertical-align: middle;" /> Why Swarm Self-Healing?
 
 Unlike conventional multi-agent frameworks that treat agents as ephemeral, disposable processes, surface-auditing and conversational swarms operating on real channels (WhatsApp, Signal, RCS, Web Chat) depend on scarce, high-friction operational assets: E.164 identities, Double Ratchet cryptographic sessions, SMS OTP budgets, and sticky residential proxy reputations.
 
